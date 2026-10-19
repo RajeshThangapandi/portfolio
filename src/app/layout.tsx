@@ -22,7 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://portfolio-alpha-beryl-54.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://rajesht-portfolio.vercel.app";
 
 export const viewport: Viewport = {
   themeColor: "#050609",
